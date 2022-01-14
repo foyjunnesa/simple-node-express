@@ -1,0 +1,2 @@
+
+a681fdbaca972870311db83245f271a96feb8b38	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/ms/-/ms-2.0.0.tgz","integrity":"sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=","time":1641742564073,"size":2874,"metadata":{"time":1641742563847,"url":"https://registry.npmjs.org/ms/-/ms-2.0.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"binary/octet-stream","date":"Sun, 09 Jan 2022 15:36:02 GMT","etag":"\"9615634070dd7751f127b2a0fb362484\"","last-modified":"Tue, 05 Jun 2018 13:46:54 GMT","vary":"Accept-Encoding"}}}
